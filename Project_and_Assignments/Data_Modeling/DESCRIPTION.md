@@ -1,14 +1,12 @@
 # Data Model Term Project
 
-Description:
+### Description:
 Term project is a partial requirement of CPE 213 course. It aims to allow students to
 demonstrate their understanding in the actual work in data modeling processing and
 analytics. Students will work in group and select dataset to perform analytics in data science
 setting. Each group will present the result to the class at the end of the semester.
 
-Presentation:
-Each group will have at most 15 minutes for video presentation. The required sections
-in the presentation are
+### Presentation:
 1. Introduction to the problem
 2. Analytic objective
 3. Data description and preparation
@@ -18,7 +16,7 @@ in the presentation are
 7. Evaluation
 8. Discussion and conclusion
    
-Project Evaluation:
+### Project Evaluation:
 Projects will be evaluated based on the following criteria
 (1) [30%] Business and Data understandings: how well do you explain the problem at
 hand and the rationale of the analysis?

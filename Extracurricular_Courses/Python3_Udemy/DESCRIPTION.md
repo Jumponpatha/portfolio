@@ -1,6 +1,6 @@
 # Learn to Code in Python 3: Programming beginner to advanced
 
-### Description:
+### EDescription:
 In this course, learning to code will be easy and intuitive for you. You will learn Python 3, one of the most popular programming languages in the world.
 
 We will cover the basic fundamentals of programming and you will learn how to do exciting things in Python, like reading and writing on files, like Excel sheets or TXT files, working with JSON and sending HTTP requests to web servers and APIs.

@@ -1,4 +1,4 @@
-Data Model Term Project
+# Data Model Term Project
 
 Description:
 Term project is a partial requirement of CPE 213 course. It aims to allow students to

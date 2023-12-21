@@ -2,9 +2,13 @@
 
 ### Design big data system on specified topic
 • Problem statement
+
 • System design diagram (Data flow, components/software used, etc.)
+
 • Design justification (Why you design the system this way?)
+
 • Benefits of this design choice
+
 • Other suggestion
 
 ### TOPIC: KEEPING A PROMISES

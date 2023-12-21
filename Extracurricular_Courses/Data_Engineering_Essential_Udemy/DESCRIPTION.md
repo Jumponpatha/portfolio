@@ -7,6 +7,9 @@ To improve the efficiency of our data engineering pipelines, we need to convert 
 ### Data Model
 ![image](https://github.com/Jumponpatha/portfolio/assets/91845870/ec0876b0-ab19-4898-8d07-edcb54c87bc1)
 
+###  Design
+![image](https://github.com/Jumponpatha/portfolio/assets/91845870/4d765075-6b07-4220-a0bb-c740f37afc22)
+
 ### Setup Instructions
 Setup the Project Using VSCode
 

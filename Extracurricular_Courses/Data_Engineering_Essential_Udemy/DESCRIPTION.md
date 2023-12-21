@@ -30,13 +30,12 @@ orders_data_json= pd.read_json(
     lines=True
 )
 orders_data_json.count() # To find count of rows
-# ###### Read order_items JSON File using PANDAS
+####### Read order_items JSON File using PANDAS
 order_items_data_json= pd.read_json(
     'data/retail_db/order_items_json/part-00000',
     lines=True
 )
-# To find count of rows
-order_items_data_json.count()
+order_items_data_json.count() # To find count of rows
 
 ### Technologies Used
 * Programming Language – Python

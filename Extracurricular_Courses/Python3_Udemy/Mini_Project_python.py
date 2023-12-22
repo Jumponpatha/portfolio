@@ -81,7 +81,6 @@ def main():
     print(f'Final Exam Score: {final} / 150')
     print(f'Total Score Percent (100%): {total_score:.2f}%')
     print(f'Grade: {grade}')
-    print(f'Feedback: {feedback}')
 
 if __name__ == "__main__":
     main()

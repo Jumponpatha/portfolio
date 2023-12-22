@@ -31,7 +31,7 @@ def cal_grade(exercise, project, quiz1, quiz2, midterm, final):
     midterm_weight = 0.5
     final_weight = 0.3
 
-    total_score = (exercise * exercise_weight) + (project * project_weight) + (quiz1 * quiz1_weight) + (quiz2 * quiz2_weight) + (midterm_weight * midterm_weight) + (final * final_weight)
+    total_score = (exercise * exercise_weight) + (project * project_weight) + (quiz1 * quiz1_weight) + (quiz2 * quiz2_weight) + (midterm * midterm_weight) + (final * final_weight)
 
     return total_score
 

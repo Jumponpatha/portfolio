@@ -69,6 +69,7 @@
         <div class="about-wrapper__info load-hidden">
           <p class="about-wrapper__info-text">
             * Email: jumponpat59@gmail.com
+            
             * Phone Number: 0865639118
           </p>
           <span class="d-flex mt-3">

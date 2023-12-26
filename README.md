@@ -13,7 +13,7 @@
 </section>
 
 ### ABOUT ME
-A dedicated third-year Computer Engineering student at King Mongkut's University of Technology Thonburi with the drive and the skills in Data Engineering, Data Analysis, and Data Science necessary to contribute to the success of today's business projects. An enthusiastic and dependable individual with soft skills of Innovation, Continuous learning by doing, and Teamwork who excels in providing the best services in both data analysis and data synthesis with meaningful business recommendations. I have a high passion for the opportunity to work and learn from an organization that values cutting-edge innovation and supports professional learning and development. 
+A dedicated third-year Computer Engineering student at King Mongkut's University of Technology Thonburi with the drive and the skills in Data Engineering, Data Analysis, and Data Science necessary to contribute to the success of today's business projects. An enthusiastic and dependable individual with soft skills of Innovation, Continuous learning by doing, and Teamwork who excels in providing the best services in both data analysis and data synthesis with meaningful business recommendations. I have a high passion for the opportunity to work and learn from an organization that values cutting-edge innovation and supports professional learning and development.
 
 ### CONTACT
 
@@ -35,7 +35,5 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 2021-present, Bachelor in Computer Engineering (International Program)
 
 * **Assumption College**
-
 2015-2020, High School Graduate
 
-<iframe src="path/to/icon.svg"> </iframe>

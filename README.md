@@ -25,7 +25,7 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 
 * Possess critical thinking skills in Data Engineering, Data Analysis, and Data Science.
 * Capable in various computational languages including SQL and Python.
-*[![My Skills](https://skillicons.dev/icons?i=aws,perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,postgres,powerbi,perline=3)](https://skillicons.dev)
 * Ability to use applications and tools like GitHub, Power BI, PostgreSQL, and Linux commands.
 
 ### EDUCATION

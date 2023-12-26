@@ -37,3 +37,5 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 * **Assumption College**
 
 2015-2020, High School Graduate
+
+<iframe src="path/to/icon.svg"> </iframe>

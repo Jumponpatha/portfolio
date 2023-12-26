@@ -17,8 +17,8 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 
 ### CONTACT
 
-* Email: jumponpat59@gmail.com
-* Phone Number: 0865639118
+* **Email**: jumponpat59@gmail.com
+* **Phone Number**: 0865639118
 
 
 ### SKILLS

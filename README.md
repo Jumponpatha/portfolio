@@ -25,7 +25,7 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 
 * Possess critical thinking skills in Data Engineering, Data Analysis, and Data Science.
 * Capable in various computational languages including SQL and Python.
-* Capable in Cloud Management such as Amazon Web Service (AWS).
+*[![My Skills](https://skillicons.dev/icons?i=aws,flutter&perline=3)](https://skillicons.dev)
 * Ability to use applications and tools like GitHub, Power BI, PostgreSQL, and Linux commands.
 
 ### EDUCATION
@@ -35,5 +35,3 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 
 * **Assumption College**
 2015-2020, High School Graduate
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)

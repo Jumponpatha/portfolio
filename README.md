@@ -1,4 +1,18 @@
-# Jumponpatha Chaimongkonrojna
+<section id="hero" class="jumbotron">
+  <div class="container">
+    <h1 class="hero-title load-hidden">
+      Hi, my name is <span class="text-color-main">Jumponpatha Chaimongkonrojna</span>
+      <br />
+      A dedicated Computer Engineering student
+    </h1>
+    <p class="hero-cta load-hidden">
+      <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
+        Know more
+      </a>
+    </p>
+  </div>
+</section>
+
 
 ### PROFESSIONAL SUMMARY
 
@@ -19,4 +33,3 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 * 2021-present, Bachelor in Computer Engineering (International Program), King Mongkut's University of Technology Thonburi (KMUTT)    
 
 * 2015-2020, High School Graduate, Assumption College
-

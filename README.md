@@ -49,11 +49,42 @@
   </div>
 </section>
 
-
-### MY BIO
-* Email: jumponpat59@gmail.com
-* Phone Number: 0865639118
-
+<section id="about">
+  <div class="container">
+    <h2 class="section-title load-hidden">MY BIO</h2>
+    <div class="row about-wrapper">
+      <div class="col-md-6 col-sm-12">
+        <div class="about-wrapper__image load-hidden">
+          <img
+            alt=""
+            class="img-fluid rounded shadow-lg"
+            height="auto"
+            width="300px"
+            src="assets/profile.jpg"
+            alt="Profile Image"
+          />
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="about-wrapper__info load-hidden">
+          <p class="about-wrapper__info-text">
+            * Email: jumponpat59@gmail.com
+            * Phone Number: 0865639118
+          </p>
+          <span class="d-flex mt-3">
+            <a
+              rel="noreferrer"
+              target="_blank"
+              class="cta-btn cta-btn--resume"
+              href="assets/resume.pdf"
+            >
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 ### SKILLS
 
 * Possess critical thinking skills in Data Engineering, Data Analysis, and Data Science.
@@ -62,6 +93,6 @@
 * Ability to use applications and tools like GitHub, Power BI, PostgreSQL, and Linux commands.
 
 ### EDUCATION
-* 2021-present, Bachelor in Computer Engineering (International Program), King Mongkut's University of Technology Thonburi (KMUTT)    
+* 2021-present, Bachelor in Computer Engineering (International Program), King Mongkut's University of Technology Thonburi (KMUTT)
 
 * 2015-2020, High School Graduate, Assumption College

@@ -31,7 +31,6 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 ### EDUCATION
 
 * **King Mongkut's University of Technology Thonburi (KMUTT)**
-
 2021-present, Bachelor in Computer Engineering (International Program)
 
 * **Assumption College**

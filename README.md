@@ -36,3 +36,4 @@ A dedicated third-year Computer Engineering student at King Mongkut's University
 * **Assumption College**
 2015-2020, High School Graduate
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
